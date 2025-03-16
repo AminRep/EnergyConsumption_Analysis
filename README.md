@@ -3,11 +3,11 @@ A predictive model using Gradient Boosting algorithm (XGBoost) was developed to 
 # 📂Folder Details
 ```plaintext
 📦 ProjectRoot
-├── README.md          # Project overview and setup instructions
 ├── Assets/       # Diagram exported from the code
 ├── Analysis.ipynb               # Source code jupyter notebook
-├── Steel_industry_data.csv              # CSV Dataset used for Analysis
+├── README.md          # Project overview and setup instructions
 ├── Report.pdf             # Report of the whole project (Documentation)
+├── Steel_industry_data.csv              # CSV Dataset used for Analysis
 ```
 # ✅ Prerequisites (+ Libraries that should be installed)
 * Jupyter Notebook
