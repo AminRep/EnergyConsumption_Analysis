@@ -11,7 +11,7 @@ This project focuses on analyzing and predicting energy consumption in the steel
 ```
 # ✅ Prerequisites (+ important Libraries that should be installed)
 * Jupyter Notebook
-* xgboost Library
+* [xgboost](https://xgboost.readthedocs.io/en/stable/) Library
 * seaborn
 * sklearn
 * other libraries such as matplotlib, NumPy, pandas, etc. are assumed to be installed on your machine.
