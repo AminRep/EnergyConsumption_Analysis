@@ -9,8 +9,12 @@ A predictive model using Gradient Boosting algorithm (XGBoost) was developed to 
 ├── Report.pdf             # Report of the whole project (Documentation)
 ├── Steel_industry_data.csv              # CSV Dataset used for Analysis
 ```
-# ✅ Prerequisites (+ Libraries that should be installed)
+# ✅ Prerequisites (+ important Libraries that should be installed)
 * Jupyter Notebook
-* XGBoost Library
+* xgboost Library
 * seaborn
 * sklearn
+* other libraries such as matplotlib, NumPy, pandas, etc. are assumed to be installed on your machine.
+```plaintext
+pip install xgboost, seaborn, sklearn
+```
